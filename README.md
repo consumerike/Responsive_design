@@ -1,0 +1,1 @@
+Responsive Design using vanilla JS and CSS.
